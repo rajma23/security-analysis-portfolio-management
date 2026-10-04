@@ -79,17 +79,6 @@ The Python implementation maximizes the Sharpe ratio subject to portfolio weight
 
 The Python extension evaluates a dynamic rebalancing strategy against a static portfolio using rolling training and testing windows, while incorporating transaction costs and portfolio drawdown.
 
-## Repository Structure
-
-
-security-analysis-portfolio-management/
-│
-├── README.md
-├── excel/
-│   ├── SAPM_Assignment.xlsx
-│   └── SAPM_Report.pdf
-├── python_extension/
-    └── SAPM_Dynamic_Portfolio_Optimization.ipynb
 
 
 ## Tools & Technologies
